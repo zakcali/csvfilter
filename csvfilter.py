@@ -7,7 +7,7 @@ EXTENSION = '.csv'
 ENCODING = 'utf-8-sig'
 SEPERATOR = '\t'
 FIELDS = ['Q', 'scie', 'ssci', 'ahci', 'esci', 'istp', 'isshp', 'bsci', 'bhci', 'Method', 'Wos number', 'Doc type',
-          'Cited', 'Auth.#', 'p.Year', 'ea.Year', 'Year', 'Journal', 'Journ', 'Book', 'issn', 'eissn', 'isbn', 'Title',
+          'Cited', 'Auth.#', 'p.Year', 'ea.Year', 'Year', 'Month', 'Journal', 'Journ', 'Book', 'issn', 'eissn', 'isbn', 'Title',
           'Doi', 'Vol.', 'Issue', 'Page.S', 'Page.E', 'Artic.Nr', 'Ref.style', 'PMID', 'Pub type', 'Publisher',
           'Book doi', 'Authors', 'gAuthors', 'Book auth', 'Book ed', 'Abstr', 'M.Abstr']
 
